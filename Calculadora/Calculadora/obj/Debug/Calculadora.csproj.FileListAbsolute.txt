@@ -1,0 +1,8 @@
+E:\worksapce\vs-studio\Projetos\calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+E:\worksapce\vs-studio\Projetos\calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+E:\worksapce\vs-studio\Projetos\calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+E:\worksapce\vs-studio\Projetos\calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+E:\worksapce\vs-studio\Projetos\calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+E:\worksapce\vs-studio\Projetos\calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+E:\worksapce\vs-studio\Projetos\calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+E:\worksapce\vs-studio\Projetos\calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.exe.config
