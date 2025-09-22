@@ -6,6 +6,7 @@ Este é um projeto simples de uma calculadora feita em C# para prática de lógi
 
 - Soma, subtração, multiplicação e divisão
 - Interface simples de console
+- Tratamento de exceções com if
 
 
 ## Como usar
