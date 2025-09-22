@@ -4,7 +4,7 @@ Este é um projeto de uma calculadora feita em C# para prática de lógica de pr
 
 ## Funcionalidades
 
-- Soma, subtração, multiplicação, divisão, fatorial, potência, raíz quadrada
+- Soma, subtração, multiplicação, divisão, fatorial, potência e raíz quadrada
 - Interface simples de console
 - Tratamento de exceções com if
 
