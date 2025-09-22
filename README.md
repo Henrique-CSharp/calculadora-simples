@@ -13,7 +13,7 @@ Este é um projeto simples de uma calculadora feita em C# para prática de lógi
 
 1. Clone o repositório: https://github.com/Henrique-CSharp/calculadora-simples.git
 2. Abra o projeto no Visual Studio.
-3. Execute o programa (`F5` ou `Start`).
+3. Execute o programa (`Ctlr F5`).
 
 ## Tecnologias usadas
 
