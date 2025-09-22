@@ -1,10 +1,10 @@
 # Calculadora em C#
 
-Este é um projeto simples de uma calculadora feita em C# para prática de lógica de programação e operações básicas.
+Este é um projeto de uma calculadora feita em C# para prática de lógica de programação e operações.
 
 ## Funcionalidades
 
-- Soma, subtração, multiplicação e divisão
+- Soma, subtração, multiplicação, divisão, fatorial, potência, raíz quadrada
 - Interface simples de console
 - Tratamento de exceções com if
 
